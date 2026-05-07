@@ -156,7 +156,7 @@ ul {
 }
 
 .nav-cta {
-  padding: 10px 0;
+  padding: 10px 28px;
   border-radius: var(--radius-full);
   background: linear-gradient(135deg, var(--primary), var(--primary-light));
   color: white !important;
@@ -1201,7 +1201,7 @@ ul {
   }
 
   .nav-cta {
-    padding: 8px 0;
+    padding: 8px 22px;
     font-size: 0.85rem;
   }
 
@@ -1429,7 +1429,7 @@ ul {
   }
 
   .nav-cta {
-    padding: 14px 0;
+    padding: 14px 34px;
     font-size: 1rem;
     margin-top: 8px;
   }
